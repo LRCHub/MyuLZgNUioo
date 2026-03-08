@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Shut The F**k Up（feat. AK-69、YOU THUG）",
+  "base_artist": "MC TYSON",
+  "createdAt": "2026-03-08T07:47:04.958443Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shut The F**k Up (feat. AK-69 & YOU THUG)",
+      "artist": "MC TYSON",
+      "has_synced": false,
+      "path": "select/01_Shut_The_F_k_Up_(feat._AK-69_&_YOU_THUG)_MC_TYSON.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shut The F**k Up (feat. AK-69 & YOU THUG)",
+      "artist": "MC TYSON",
+      "has_synced": false,
+      "path": "select/pl_01_Shut_The_F_k_Up_(feat._AK-69_&_YOU_THUG)_MC_TYSON.txt"
+    }
+  ]
+}
